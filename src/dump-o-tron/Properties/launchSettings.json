@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dump-o-tron": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\Users\\rynowak\\Downloads\\wasm-bcl\\wasm"
+    }
+  }
+}
